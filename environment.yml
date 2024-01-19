@@ -1,0 +1,26 @@
+name: co2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - pandas
+  - plotly
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - xgboost
+  - shap
+  - kaggle
+  - streamlit
+  - graphviz
+  - python-graphviz
+  - lime
+  - colorlover
+  - selenium
+  - unidecode
+  - skater
+  - dask
+  - dask-ml
+prefix: /home/mln/miniconda3/envs/co2

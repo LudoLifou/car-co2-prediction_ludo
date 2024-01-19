@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/auto_co2/__init__.py
+src/auto_co2/agg.py
+src/auto_co2/data.py
+src/auto_co2/styles.py
+src/auto_co2/viz.py
+src/auto_co2.egg-info/PKG-INFO
+src/auto_co2.egg-info/SOURCES.txt
+src/auto_co2.egg-info/dependency_links.txt
+src/auto_co2.egg-info/top_level.txt
